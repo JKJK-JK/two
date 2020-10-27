@@ -1,0 +1,18 @@
+export default {
+    USERLOGIN:"/api/userlogin",
+    MENULIST:"/api/menulist",
+    MENUADD:"/api//menuadd",
+    MENUINFO:"/api//menuinfo",
+    MENUEDIT:"/api//menuedit",
+    MENUDELETE:"/api//menudelete",
+    ROLELIST:"/api/rolelist",
+    ROLEADD:"/api/roleadd",
+    ROLEDELETE:"/api/roledelete",
+    ROLEINFO:"/api/roleinfo",
+    ROLEEDIT:"/api/roleedit",
+    USERLIST:"/api/userlist",
+    USERADD:"/api/useradd",
+    USERDELETE:"/api/userdelete",
+    USERINFO:"/api/userinfo",
+    USEREDIT:"/api/useredit",
+}
